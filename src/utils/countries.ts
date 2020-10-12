@@ -1,0 +1,23 @@
+// some random countries
+export default [
+  'USA',
+  'INDIA',
+  'CHINA',
+  'IRAN',
+  'IRAQ',
+  'FRANCE',
+  'CHINA',
+  'NEPAL',
+  'BHUTAN',
+  'UK',
+  'GERMANY',
+  'RUSSIA',
+  'CANADA',
+  'BRAZIL',
+  'AUSTRALIA',
+  'SRILANKA',
+  'WEST INDIES',
+  'MYANMAR',
+  'JAPAN',
+  'TAIWAN',
+];
